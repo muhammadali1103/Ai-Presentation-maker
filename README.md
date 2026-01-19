@@ -31,8 +31,6 @@ Open browser at `http://127.0.0.1:5000/` and generate your presentation.
 
 ## Notes
 
-* Keep API keys in a `.env` file (do not push to GitHub):
-
 ```
 OPENAI_API_KEY=your_openai_key
 PEXELS_API_KEY=your_pexels_key
