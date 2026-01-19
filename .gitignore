@@ -1,0 +1,22 @@
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+
+# Virtual environment
+venv/
+.env
+
+# Generated presentations
+generated/
+instance/
+
+# IDE files
+.vscode/
+*.sublime-project
+*.sublime-workspace
+.idea/
+
+# Other system files
+.DS_Store
+Thumbs.db
